@@ -1,5 +1,5 @@
 /* ============================================================
-   CHANU'S CAKES — main.js
+    CHANU'S CAKES — main.js
    ============================================================ */
 
 document.addEventListener('DOMContentLoaded', () => {
